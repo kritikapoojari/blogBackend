@@ -1,0 +1,30 @@
+{
+  "name": "blogbackend",
+  "version": "1.0.0",
+  "description": "This is the project for Blog Backend API End points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kritikapoojari/blogBackend.git"
+  },
+  "keywords": [
+    "blog",
+    "backend"
+  ],
+  "author": "Kritika Poojari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kritikapoojari/blogBackend/issues"
+  },
+  "homepage": "https://github.com/kritikapoojari/blogBackend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-modules": "^1.0.1",
+    "nodemon": "^2.0.6",
+    "uniqid": "^5.2.0"
+  }
+}
